@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Fernanda Corredera!
 
-<!--
-**fernanda1102/fernanda1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em constante aprimorando na área de frontend, tendo finaizando a formação de HTML e CSS pela plataforma Alura. 
+Por hora cursando a formação em JavaScript tendo 80% concluida, também pela plataforma Alura.
+E estou participando da mentoria do Pedro Marins com foco ter um acompanhamento para desenvolver projetos por 120 dias.
 
-Here are some ideas to get you started:
+Trabalhei na área da engenharia mecânica por 10 anos, porém ao compreender o mundo dos dev acabei desenvolvendo uma paixão pelos recursos fornecidos pela tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique a vontade para entrar em contato comigo através do meu e-mail pessoal ou pelo linkedin.
+fernandacorredera@gmail.com
+
+Hoje moro em Maceira, Portugal.:heart_eyes:
+
+          
+          
+          
+          
