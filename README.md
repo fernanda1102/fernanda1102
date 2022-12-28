@@ -2,7 +2,7 @@
 ## Sou a Fernanda Corredera!
 
 Estou em constante aprimorando na área de frontend, tendo finaizando a formação de HTML e CSS pela plataforma Alura. 
-Por hora cursando a formação em JavaScript tendo 80% concluida, também pela plataforma Alura.
+Por hora cursando a formação em JavaScript tendo 90% concluída, também pela plataforma Alura.
 E estou participando da mentoria do Pedro Marins com foco ter um acompanhamento para desenvolver projetos por 120 dias.
 
 Trabalhei na área da engenharia mecânica por 10 anos, porém ao compreender o mundo dos dev acabei desenvolvendo uma paixão pelos recursos fornecidos pela tecnologia.
