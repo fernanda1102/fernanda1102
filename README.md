@@ -1,7 +1,7 @@
 ### Hi, I'm Fernanda 👋
 
 - 🔭 I’m currently studying Frontend Developer
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Wordpress
 - 😄 Pronouns: she/her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernanda1102&show_icons=true&theme=dracula)
